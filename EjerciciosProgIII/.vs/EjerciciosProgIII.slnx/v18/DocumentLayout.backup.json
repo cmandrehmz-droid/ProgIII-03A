@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosProgIII\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E686DF-F1C4-4CFB-B856-2174CF3E3F87}|EjerciciosProgIII\\EjerciciosProgIII.csproj|c:\\users\\mezac\\onedrive\\documentos\\github\\progiii-04a\\ejerciciosprogiii\\ejerciciosprogiii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E686DF-F1C4-4CFB-B856-2174CF3E3F87}|EjerciciosProgIII\\EjerciciosProgIII.csproj|solutionrelative:ejerciciosprogiii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E686DF-F1C4-4CFB-B856-2174CF3E3F87}|EjerciciosProgIII\\EjerciciosProgIII.csproj|c:\\users\\mezac\\onedrive\\documentos\\github\\progiii-04a\\ejerciciosprogiii\\ejerciciosprogiii\\ejercicios\\ejercicio_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E686DF-F1C4-4CFB-B856-2174CF3E3F87}|EjerciciosProgIII\\EjerciciosProgIII.csproj|solutionrelative:ejerciciosprogiii\\ejercicios\\ejercicio_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E686DF-F1C4-4CFB-B856-2174CF3E3F87}|EjerciciosProgIII\\EjerciciosProgIII.csproj|c:\\users\\mezac\\onedrive\\documentos\\github\\progiii-04a\\ejerciciosprogiii\\ejerciciosprogiii\\ejercicios\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E686DF-F1C4-4CFB-B856-2174CF3E3F87}|EjerciciosProgIII\\EjerciciosProgIII.csproj|solutionrelative:ejerciciosprogiii\\ejercicios\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E686DF-F1C4-4CFB-B856-2174CF3E3F87}|EjerciciosProgIII\\EjerciciosProgIII.csproj|c:\\users\\mezac\\onedrive\\documentos\\github\\progiii-04a\\ejerciciosprogiii\\ejerciciosprogiii\\ejercicios\\ejercicio_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E686DF-F1C4-4CFB-B856-2174CF3E3F87}|EjerciciosProgIII\\EjerciciosProgIII.csproj|solutionrelative:ejerciciosprogiii\\ejercicios\\ejercicio_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E686DF-F1C4-4CFB-B856-2174CF3E3F87}|EjerciciosProgIII\\EjerciciosProgIII.csproj|c:\\users\\mezac\\onedrive\\documentos\\github\\progiii-04a\\ejerciciosprogiii\\ejerciciosprogiii\\ejercicios\\ejercicio_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E686DF-F1C4-4CFB-B856-2174CF3E3F87}|EjerciciosProgIII\\EjerciciosProgIII.csproj|solutionrelative:ejerciciosprogiii\\ejercicios\\ejercicio_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E686DF-F1C4-4CFB-B856-2174CF3E3F87}|EjerciciosProgIII\\EjerciciosProgIII.csproj|c:\\users\\mezac\\onedrive\\documentos\\github\\progiii-04a\\ejerciciosprogiii\\ejerciciosprogiii\\ejercicios\\ejercicio_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E686DF-F1C4-4CFB-B856-2174CF3E3F87}|EjerciciosProgIII\\EjerciciosProgIII.csproj|solutionrelative:ejerciciosprogiii\\ejercicios\\ejercicio_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E686DF-F1C4-4CFB-B856-2174CF3E3F87}|EjerciciosProgIII\\EjerciciosProgIII.csproj|c:\\users\\mezac\\onedrive\\documentos\\github\\progiii-04a\\ejerciciosprogiii\\ejerciciosprogiii\\ejercicios\\ejercicio_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E686DF-F1C4-4CFB-B856-2174CF3E3F87}|EjerciciosProgIII\\EjerciciosProgIII.csproj|solutionrelative:ejerciciosprogiii\\ejercicios\\ejercicio_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E686DF-F1C4-4CFB-B856-2174CF3E3F87}|EjerciciosProgIII\\EjerciciosProgIII.csproj|c:\\users\\mezac\\onedrive\\documentos\\github\\progiii-04a\\ejerciciosprogiii\\ejerciciosprogiii\\ejercicios\\loro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E686DF-F1C4-4CFB-B856-2174CF3E3F87}|EjerciciosProgIII\\EjerciciosProgIII.csproj|solutionrelative:ejerciciosprogiii\\ejercicios\\loro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E686DF-F1C4-4CFB-B856-2174CF3E3F87}|EjerciciosProgIII\\EjerciciosProgIII.csproj|c:\\users\\mezac\\onedrive\\documentos\\github\\progiii-04a\\ejerciciosprogiii\\ejerciciosprogiii\\ejercicios\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E686DF-F1C4-4CFB-B856-2174CF3E3F87}|EjerciciosProgIII\\EjerciciosProgIII.csproj|solutionrelative:ejerciciosprogiii\\ejercicios\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E686DF-F1C4-4CFB-B856-2174CF3E3F87}|EjerciciosProgIII\\EjerciciosProgIII.csproj|c:\\users\\mezac\\onedrive\\documentos\\github\\progiii-04a\\ejerciciosprogiii\\ejerciciosprogiii\\ejercicios\\ejercicio_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E686DF-F1C4-4CFB-B856-2174CF3E3F87}|EjerciciosProgIII\\EjerciciosProgIII.csproj|solutionrelative:ejerciciosprogiii\\ejercicios\\ejercicio_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E686DF-F1C4-4CFB-B856-2174CF3E3F87}|EjerciciosProgIII\\EjerciciosProgIII.csproj|c:\\users\\mezac\\onedrive\\documentos\\github\\progiii-04a\\ejerciciosprogiii\\ejerciciosprogiii\\ejercicios\\ejercicio_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E686DF-F1C4-4CFB-B856-2174CF3E3F87}|EjerciciosProgIII\\EjerciciosProgIII.csproj|solutionrelative:ejerciciosprogiii\\ejercicios\\ejercicio_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosProgIII\\EjerciciosProgIII\\Ejercicios\\Producto.cs",
+              "RelativeDocumentMoniker": "EjerciciosProgIII\\Ejercicios\\Producto.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosProgIII\\EjerciciosProgIII\\Ejercicios\\Producto.cs",
+              "RelativeToolTip": "EjerciciosProgIII\\Ejercicios\\Producto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwCgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T04:03:46.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio_7.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosProgIII\\EjerciciosProgIII\\Ejercicios\\Ejercicio_7.cs",
+              "RelativeDocumentMoniker": "EjerciciosProgIII\\Ejercicios\\Ejercicio_7.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosProgIII\\EjerciciosProgIII\\Ejercicios\\Ejercicio_7.cs",
+              "RelativeToolTip": "EjerciciosProgIII\\Ejercicios\\Ejercicio_7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T04:01:03.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ejercicio_6.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosProgIII\\EjerciciosProgIII\\Ejercicios\\Ejercicio_6.cs",
+              "RelativeDocumentMoniker": "EjerciciosProgIII\\Ejercicios\\Ejercicio_6.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosProgIII\\EjerciciosProgIII\\Ejercicios\\Ejercicio_6.cs",
+              "RelativeToolTip": "EjerciciosProgIII\\Ejercicios\\Ejercicio_6.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAWwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T03:36:13.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ejercicio_5.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosProgIII\\EjerciciosProgIII\\Ejercicios\\Ejercicio_5.cs",
+              "RelativeDocumentMoniker": "EjerciciosProgIII\\Ejercicios\\Ejercicio_5.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosProgIII\\EjerciciosProgIII\\Ejercicios\\Ejercicio_5.cs",
+              "RelativeToolTip": "EjerciciosProgIII\\Ejercicios\\Ejercicio_5.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T03:34:12.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ejercicio_4.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosProgIII\\EjerciciosProgIII\\Ejercicios\\Ejercicio_4.cs",
+              "RelativeDocumentMoniker": "EjerciciosProgIII\\Ejercicios\\Ejercicio_4.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosProgIII\\EjerciciosProgIII\\Ejercicios\\Ejercicio_4.cs",
+              "RelativeToolTip": "EjerciciosProgIII\\Ejercicios\\Ejercicio_4.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T03:21:38.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ejercicio_3.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosProgIII\\EjerciciosProgIII\\Ejercicios\\Ejercicio_3.cs",
+              "RelativeDocumentMoniker": "EjerciciosProgIII\\Ejercicios\\Ejercicio_3.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosProgIII\\EjerciciosProgIII\\Ejercicios\\Ejercicio_3.cs",
+              "RelativeToolTip": "EjerciciosProgIII\\Ejercicios\\Ejercicio_3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T03:06:19.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ejercicio_2.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosProgIII\\EjerciciosProgIII\\Ejercicios\\Ejercicio_2.cs",
+              "RelativeDocumentMoniker": "EjerciciosProgIII\\Ejercicios\\Ejercicio_2.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosProgIII\\EjerciciosProgIII\\Ejercicios\\Ejercicio_2.cs",
+              "RelativeToolTip": "EjerciciosProgIII\\Ejercicios\\Ejercicio_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T03:05:15.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosProgIII\\EjerciciosProgIII\\Program.cs",
+              "RelativeDocumentMoniker": "EjerciciosProgIII\\Program.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosProgIII\\EjerciciosProgIII\\Program.cs",
+              "RelativeToolTip": "EjerciciosProgIII\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T02:37:05.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Gato.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosProgIII\\EjerciciosProgIII\\Ejercicios\\Gato.cs",
+              "RelativeDocumentMoniker": "EjerciciosProgIII\\Ejercicios\\Gato.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosProgIII\\EjerciciosProgIII\\Ejercicios\\Gato.cs",
+              "RelativeToolTip": "EjerciciosProgIII\\Ejercicios\\Gato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T03:39:47.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Loro.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosProgIII\\EjerciciosProgIII\\Ejercicios\\Loro.cs",
+              "RelativeDocumentMoniker": "EjerciciosProgIII\\Ejercicios\\Loro.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosProgIII\\EjerciciosProgIII\\Ejercicios\\Loro.cs",
+              "RelativeToolTip": "EjerciciosProgIII\\Ejercicios\\Loro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T03:40:04.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ejercicio_1.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosProgIII\\EjerciciosProgIII\\Ejercicios\\Ejercicio_1.cs",
+              "RelativeDocumentMoniker": "EjerciciosProgIII\\Ejercicios\\Ejercicio_1.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosProgIII\\EjerciciosProgIII\\Ejercicios\\Ejercicio_1.cs",
+              "RelativeToolTip": "EjerciciosProgIII\\Ejercicios\\Ejercicio_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T02:39:16.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,0 @@
-C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\EjerciciosProgIII\EjerciciosProgIII\bin\Debug\EjerciciosProgIII.exe.config
-C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\EjerciciosProgIII\EjerciciosProgIII\bin\Debug\EjerciciosProgIII.exe
-C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\EjerciciosProgIII\EjerciciosProgIII\bin\Debug\EjerciciosProgIII.pdb
-C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\EjerciciosProgIII\EjerciciosProgIII\obj\Debug\EjerciciosProgIII.csproj.AssemblyReference.cache
-C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\EjerciciosProgIII\EjerciciosProgIII\obj\Debug\EjerciciosProgIII.csproj.CoreCompileInputs.cache
-C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\EjerciciosProgIII\EjerciciosProgIII\obj\Debug\EjerciciosProgIII.exe
-C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\EjerciciosProgIII\EjerciciosProgIII\obj\Debug\EjerciciosProgIII.pdb

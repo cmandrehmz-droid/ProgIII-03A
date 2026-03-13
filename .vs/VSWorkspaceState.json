@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Sistema de Concesionario de Vehículos",
+    "\\Sistema de Concesionario de Vehículos\\Sistema de Concesionario de Vehículos",
+    "\\Sistema de Concesionario de Vehículos\\Sistema de Concesionario de Vehículos\\Enums",
+    "\\Sistema de Concesionario de Vehículos\\Sistema de Concesionario de Vehículos\\Modelos",
+    "\\SistemaRestaurante",
+    "\\SistemaRestaurante\\SistemaRestaurante"
   ],
+  "SelectedNode": "\\Sistema de Concesionario de Vehículos\\Sistema de Concesionario de Vehículos\\Modelos\\Vehiculo.cs",
   "PreviewInSolutionExplorer": false
 }

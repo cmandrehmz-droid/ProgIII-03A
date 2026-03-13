@@ -43,7 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="enums\EstadoOrden.cs" />
+    <Compile Include="enums\NivelDificultad.cs" />
+    <Compile Include="enums\TipoComida.cs" />
+    <Compile Include="Interfaces\IPreparable.cs" />
+    <Compile Include="Modelos\Entrada.cs" />
     <Compile Include="Modelos\Plato.cs" />
+    <Compile Include="Modelos\PlatoPrincipal.cs" />
+    <Compile Include="Modelos\Postre.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

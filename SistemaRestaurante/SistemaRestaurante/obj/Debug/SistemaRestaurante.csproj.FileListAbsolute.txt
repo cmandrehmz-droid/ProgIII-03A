@@ -1,0 +1,7 @@
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.exe.config
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.exe
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.pdb
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.csproj.AssemblyReference.cache
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.exe
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.pdb

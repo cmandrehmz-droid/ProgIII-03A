@@ -1,0 +1,10 @@
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\FormulariodePerfil\FormulariodePerfil\bin\Debug\FormulariodePerfil.exe.config
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\FormulariodePerfil\FormulariodePerfil\bin\Debug\FormulariodePerfil.exe
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\FormulariodePerfil\FormulariodePerfil\bin\Debug\FormulariodePerfil.pdb
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\FormulariodePerfil\FormulariodePerfil\obj\Debug\FormulariodePerfil.csproj.AssemblyReference.cache
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\FormulariodePerfil\FormulariodePerfil\obj\Debug\FormulariodePerfil.Form1.resources
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\FormulariodePerfil\FormulariodePerfil\obj\Debug\FormulariodePerfil.Properties.Resources.resources
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\FormulariodePerfil\FormulariodePerfil\obj\Debug\FormulariodePerfil.csproj.GenerateResource.cache
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\FormulariodePerfil\FormulariodePerfil\obj\Debug\FormulariodePerfil.csproj.CoreCompileInputs.cache
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\FormulariodePerfil\FormulariodePerfil\obj\Debug\FormulariodePerfil.exe
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\FormulariodePerfil\FormulariodePerfil\obj\Debug\FormulariodePerfil.pdb

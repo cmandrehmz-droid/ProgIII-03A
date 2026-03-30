@@ -1,0 +1,7 @@
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Parcial\Parcial\bin\Debug\Parcial.exe.config
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Parcial\Parcial\bin\Debug\Parcial.exe
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Parcial\Parcial\bin\Debug\Parcial.pdb
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Parcial\Parcial\obj\Debug\Parcial.csproj.AssemblyReference.cache
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Parcial\Parcial\obj\Debug\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Parcial\Parcial\obj\Debug\Parcial.exe
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Parcial\Parcial\obj\Debug\Parcial.pdb

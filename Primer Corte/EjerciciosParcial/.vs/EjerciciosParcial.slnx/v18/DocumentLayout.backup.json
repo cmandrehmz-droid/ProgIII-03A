@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosParcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE808D9-5BD3-4929-A65D-83211CA76C33}|EjerciciosParcial\\EjerciciosParcial.csproj|c:\\users\\mezac\\onedrive\\documentos\\github\\progiii-04a\\ejerciciosparcial\\ejerciciosparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE808D9-5BD3-4929-A65D-83211CA76C33}|EjerciciosParcial\\EjerciciosParcial.csproj|solutionrelative:ejerciciosparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE808D9-5BD3-4929-A65D-83211CA76C33}|EjerciciosParcial\\EjerciciosParcial.csproj|C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosParcial\\ejerciciosparcial\\modelos\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE808D9-5BD3-4929-A65D-83211CA76C33}|EjerciciosParcial\\EjerciciosParcial.csproj|solutionrelative:ejerciciosparcial\\modelos\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE808D9-5BD3-4929-A65D-83211CA76C33}|EjerciciosParcial\\EjerciciosParcial.csproj|C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosParcial\\ejerciciosparcial\\enum\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE808D9-5BD3-4929-A65D-83211CA76C33}|EjerciciosParcial\\EjerciciosParcial.csproj|solutionrelative:ejerciciosparcial\\enum\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tipo.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosParcial\\EjerciciosParcial\\Enum\\Tipo.cs",
+              "RelativeDocumentMoniker": "EjerciciosParcial\\Enum\\Tipo.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosParcial\\EjerciciosParcial\\Enum\\Tipo.cs",
+              "RelativeToolTip": "EjerciciosParcial\\Enum\\Tipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T04:23:02.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Paquete.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosParcial\\EjerciciosParcial\\Modelos\\Paquete.cs",
+              "RelativeDocumentMoniker": "EjerciciosParcial\\Modelos\\Paquete.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosParcial\\EjerciciosParcial\\Modelos\\Paquete.cs",
+              "RelativeToolTip": "EjerciciosParcial\\Modelos\\Paquete.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:28:49.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosParcial\\EjerciciosParcial\\Program.cs",
+              "RelativeDocumentMoniker": "EjerciciosParcial\\Program.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\EjerciciosParcial\\EjerciciosParcial\\Program.cs",
+              "RelativeToolTip": "EjerciciosParcial\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAjwCYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:20:41.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

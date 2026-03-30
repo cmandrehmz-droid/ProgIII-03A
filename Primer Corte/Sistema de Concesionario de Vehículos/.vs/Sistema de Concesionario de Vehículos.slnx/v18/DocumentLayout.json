@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Sistema de Concesionario de Veh\u00EDculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF9297B-53A0-49D4-85B4-097A7C4FA6C5}|Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos.csproj|c:\\users\\mezac\\onedrive\\documentos\\github\\progiii-04a\\sistema de concesionario de veh\u00EDculos\\sistema de concesionario de veh\u00EDculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF9297B-53A0-49D4-85B4-097A7C4FA6C5}|Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos.csproj|solutionrelative:sistema de concesionario de veh\u00EDculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF9297B-53A0-49D4-85B4-097A7C4FA6C5}|Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos.csproj|C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Sistema de Concesionario de Veh\u00EDculos\\sistema de concesionario de veh\u00EDculos\\modelos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF9297B-53A0-49D4-85B4-097A7C4FA6C5}|Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos.csproj|solutionrelative:sistema de concesionario de veh\u00EDculos\\modelos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF9297B-53A0-49D4-85B4-097A7C4FA6C5}|Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos.csproj|C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Sistema de Concesionario de Veh\u00EDculos\\sistema de concesionario de veh\u00EDculos\\modelos\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF9297B-53A0-49D4-85B4-097A7C4FA6C5}|Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos.csproj|solutionrelative:sistema de concesionario de veh\u00EDculos\\modelos\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF9297B-53A0-49D4-85B4-097A7C4FA6C5}|Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos.csproj|C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Sistema de Concesionario de Veh\u00EDculos\\sistema de concesionario de veh\u00EDculos\\modelos\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF9297B-53A0-49D4-85B4-097A7C4FA6C5}|Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos.csproj|solutionrelative:sistema de concesionario de veh\u00EDculos\\modelos\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF9297B-53A0-49D4-85B4-097A7C4FA6C5}|Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos.csproj|C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Sistema de Concesionario de Veh\u00EDculos\\sistema de concesionario de veh\u00EDculos\\modelos\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF9297B-53A0-49D4-85B4-097A7C4FA6C5}|Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos.csproj|solutionrelative:sistema de concesionario de veh\u00EDculos\\modelos\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF9297B-53A0-49D4-85B4-097A7C4FA6C5}|Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos.csproj|C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Sistema de Concesionario de Veh\u00EDculos\\sistema de concesionario de veh\u00EDculos\\interfaces\\ivendible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF9297B-53A0-49D4-85B4-097A7C4FA6C5}|Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos.csproj|solutionrelative:sistema de concesionario de veh\u00EDculos\\interfaces\\ivendible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF9297B-53A0-49D4-85B4-097A7C4FA6C5}|Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos.csproj|C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Sistema de Concesionario de Veh\u00EDculos\\sistema de concesionario de veh\u00EDculos\\enums\\tipocombustible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF9297B-53A0-49D4-85B4-097A7C4FA6C5}|Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos.csproj|solutionrelative:sistema de concesionario de veh\u00EDculos\\enums\\tipocombustible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF9297B-53A0-49D4-85B4-097A7C4FA6C5}|Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos.csproj|C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Sistema de Concesionario de Veh\u00EDculos\\sistema de concesionario de veh\u00EDculos\\enums\\estadovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF9297B-53A0-49D4-85B4-097A7C4FA6C5}|Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos.csproj|solutionrelative:sistema de concesionario de veh\u00EDculos\\enums\\estadovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IVendible.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos\\Interfaces\\IVendible.cs",
+              "RelativeDocumentMoniker": "Sistema de Concesionario de Veh\u00EDculos\\Interfaces\\IVendible.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos\\Interfaces\\IVendible.cs",
+              "RelativeToolTip": "Sistema de Concesionario de Veh\u00EDculos\\Interfaces\\IVendible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T23:07:24.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Camion.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos\\Modelos\\Camion.cs",
+              "RelativeDocumentMoniker": "Sistema de Concesionario de Veh\u00EDculos\\Modelos\\Camion.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos\\Modelos\\Camion.cs",
+              "RelativeToolTip": "Sistema de Concesionario de Veh\u00EDculos\\Modelos\\Camion.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T23:03:32.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Motocicleta.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos\\Modelos\\Motocicleta.cs",
+              "RelativeDocumentMoniker": "Sistema de Concesionario de Veh\u00EDculos\\Modelos\\Motocicleta.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos\\Modelos\\Motocicleta.cs",
+              "RelativeToolTip": "Sistema de Concesionario de Veh\u00EDculos\\Modelos\\Motocicleta.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T23:02:54.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos\\Modelos\\Auto.cs",
+              "RelativeDocumentMoniker": "Sistema de Concesionario de Veh\u00EDculos\\Modelos\\Auto.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos\\Modelos\\Auto.cs",
+              "RelativeToolTip": "Sistema de Concesionario de Veh\u00EDculos\\Modelos\\Auto.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T22:47:51.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos\\Modelos\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Sistema de Concesionario de Veh\u00EDculos\\Modelos\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos\\Modelos\\Vehiculo.cs",
+              "RelativeToolTip": "Sistema de Concesionario de Veh\u00EDculos\\Modelos\\Vehiculo.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T22:28:08.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstadoVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos\\Enums\\EstadoVehiculo.cs",
+              "RelativeDocumentMoniker": "Sistema de Concesionario de Veh\u00EDculos\\Enums\\EstadoVehiculo.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos\\Enums\\EstadoVehiculo.cs",
+              "RelativeToolTip": "Sistema de Concesionario de Veh\u00EDculos\\Enums\\EstadoVehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T22:25:43.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TipoCombustible.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos\\Enums\\TipoCombustible.cs",
+              "RelativeDocumentMoniker": "Sistema de Concesionario de Veh\u00EDculos\\Enums\\TipoCombustible.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos\\Enums\\TipoCombustible.cs",
+              "RelativeToolTip": "Sistema de Concesionario de Veh\u00EDculos\\Enums\\TipoCombustible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T22:21:44.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema de Concesionario de Veh\u00EDculos\\Program.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Sistema de Concesionario de Veh\u00EDculos\\Sistema de Concesionario de Veh\u00EDculos\\Program.cs",
+              "RelativeToolTip": "Sistema de Concesionario de Veh\u00EDculos\\Program.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAqwNsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T22:19:00.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

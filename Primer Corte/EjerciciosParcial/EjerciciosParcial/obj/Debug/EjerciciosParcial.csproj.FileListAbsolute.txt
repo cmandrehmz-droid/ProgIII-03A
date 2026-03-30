@@ -1,0 +1,7 @@
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\EjerciciosParcial\EjerciciosParcial\bin\Debug\EjerciciosParcial.exe.config
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\EjerciciosParcial\EjerciciosParcial\bin\Debug\EjerciciosParcial.exe
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\EjerciciosParcial\EjerciciosParcial\bin\Debug\EjerciciosParcial.pdb
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\EjerciciosParcial\EjerciciosParcial\obj\Debug\EjerciciosParcial.csproj.AssemblyReference.cache
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\EjerciciosParcial\EjerciciosParcial\obj\Debug\EjerciciosParcial.csproj.CoreCompileInputs.cache
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\EjerciciosParcial\EjerciciosParcial\obj\Debug\EjerciciosParcial.exe
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\EjerciciosParcial\EjerciciosParcial\obj\Debug\EjerciciosParcial.pdb

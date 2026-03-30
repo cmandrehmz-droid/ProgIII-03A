@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Parcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{348F538D-C5BE-4348-A40E-75670E67015A}|Parcial\\Parcial.csproj|c:\\users\\mezac\\onedrive\\documentos\\github\\progiii-04a\\parcial\\parcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348F538D-C5BE-4348-A40E-75670E67015A}|Parcial\\Parcial.csproj|solutionrelative:parcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348F538D-C5BE-4348-A40E-75670E67015A}|Parcial\\Parcial.csproj|C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Parcial\\parcial\\interface\\igestionable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348F538D-C5BE-4348-A40E-75670E67015A}|Parcial\\Parcial.csproj|solutionrelative:parcial\\interface\\igestionable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348F538D-C5BE-4348-A40E-75670E67015A}|Parcial\\Parcial.csproj|C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Parcial\\parcial\\modelos\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348F538D-C5BE-4348-A40E-75670E67015A}|Parcial\\Parcial.csproj|solutionrelative:parcial\\modelos\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348F538D-C5BE-4348-A40E-75670E67015A}|Parcial\\Parcial.csproj|C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Parcial\\parcial\\enum\\especie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348F538D-C5BE-4348-A40E-75670E67015A}|Parcial\\Parcial.csproj|solutionrelative:parcial\\enum\\especie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Parcial\\Parcial\\Modelos\\Paciente.cs",
+              "RelativeDocumentMoniker": "Parcial\\Modelos\\Paciente.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Parcial\\Parcial\\Modelos\\Paciente.cs",
+              "RelativeToolTip": "Parcial\\Modelos\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T11:14:47.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGestionable.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Parcial\\Parcial\\Interface\\IGestionable.cs",
+              "RelativeDocumentMoniker": "Parcial\\Interface\\IGestionable.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Parcial\\Parcial\\Interface\\IGestionable.cs",
+              "RelativeToolTip": "Parcial\\Interface\\IGestionable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T11:12:29.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Especie.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Parcial\\Parcial\\Enum\\Especie.cs",
+              "RelativeDocumentMoniker": "Parcial\\Enum\\Especie.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Parcial\\Parcial\\Enum\\Especie.cs",
+              "RelativeToolTip": "Parcial\\Enum\\Especie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T11:09:48.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Parcial\\Parcial\\Program.cs",
+              "RelativeDocumentMoniker": "Parcial\\Program.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Parcial\\Parcial\\Program.cs",
+              "RelativeToolTip": "Parcial\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwEEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T11:09:10.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

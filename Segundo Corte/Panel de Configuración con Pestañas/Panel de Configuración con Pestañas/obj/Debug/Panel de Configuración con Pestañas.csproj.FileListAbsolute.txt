@@ -1,0 +1,10 @@
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Panel de Configuración con Pestañas\Panel de Configuración con Pestañas\bin\Debug\Panel de Configuración con Pestañas.exe.config
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Panel de Configuración con Pestañas\Panel de Configuración con Pestañas\bin\Debug\Panel de Configuración con Pestañas.exe
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Panel de Configuración con Pestañas\Panel de Configuración con Pestañas\bin\Debug\Panel de Configuración con Pestañas.pdb
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Panel de Configuración con Pestañas\Panel de Configuración con Pestañas\obj\Debug\Panel de Configuración con Pestañas.csproj.AssemblyReference.cache
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Panel de Configuración con Pestañas\Panel de Configuración con Pestañas\obj\Debug\Panel_de_Configuración_con_Pestañas.Form1.resources
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Panel de Configuración con Pestañas\Panel de Configuración con Pestañas\obj\Debug\Panel_de_Configuración_con_Pestañas.Properties.Resources.resources
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Panel de Configuración con Pestañas\Panel de Configuración con Pestañas\obj\Debug\Panel de Configuración con Pestañas.csproj.GenerateResource.cache
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Panel de Configuración con Pestañas\Panel de Configuración con Pestañas\obj\Debug\Panel de Configuración con Pestañas.csproj.CoreCompileInputs.cache
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Panel de Configuración con Pestañas\Panel de Configuración con Pestañas\obj\Debug\Panel de Configuración con Pestañas.exe
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Panel de Configuración con Pestañas\Panel de Configuración con Pestañas\obj\Debug\Panel de Configuración con Pestañas.pdb

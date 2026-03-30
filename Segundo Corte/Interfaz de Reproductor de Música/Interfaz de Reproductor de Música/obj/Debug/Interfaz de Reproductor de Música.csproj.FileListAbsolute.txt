@@ -1,0 +1,10 @@
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Interfaz de Reproductor de Música\Interfaz de Reproductor de Música\bin\Debug\Interfaz de Reproductor de Música.exe.config
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Interfaz de Reproductor de Música\Interfaz de Reproductor de Música\bin\Debug\Interfaz de Reproductor de Música.exe
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Interfaz de Reproductor de Música\Interfaz de Reproductor de Música\bin\Debug\Interfaz de Reproductor de Música.pdb
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Interfaz de Reproductor de Música\Interfaz de Reproductor de Música\obj\Debug\Interfaz de Reproductor de Música.csproj.AssemblyReference.cache
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Interfaz de Reproductor de Música\Interfaz de Reproductor de Música\obj\Debug\Interfaz_de_Reproductor_de_Música.Form1.resources
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Interfaz de Reproductor de Música\Interfaz de Reproductor de Música\obj\Debug\Interfaz_de_Reproductor_de_Música.Properties.Resources.resources
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Interfaz de Reproductor de Música\Interfaz de Reproductor de Música\obj\Debug\Interfaz de Reproductor de Música.csproj.GenerateResource.cache
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Interfaz de Reproductor de Música\Interfaz de Reproductor de Música\obj\Debug\Interfaz de Reproductor de Música.csproj.CoreCompileInputs.cache
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Interfaz de Reproductor de Música\Interfaz de Reproductor de Música\obj\Debug\Interfaz de Reproductor de Música.exe
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Interfaz de Reproductor de Música\Interfaz de Reproductor de Música\obj\Debug\Interfaz de Reproductor de Música.pdb

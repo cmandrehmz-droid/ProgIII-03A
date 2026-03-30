@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Segundo Corte\\Interfaz de Reproductor de M\u00FAsica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB72BC5B-4CE4-42B5-AB00-51AE35DC203A}|Interfaz de Reproductor de M\u00FAsica\\Interfaz de Reproductor de M\u00FAsica.csproj|c:\\users\\mezac\\onedrive\\documentos\\github\\progiii-04a\\segundo corte\\interfaz de reproductor de m\u00FAsica\\interfaz de reproductor de m\u00FAsica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB72BC5B-4CE4-42B5-AB00-51AE35DC203A}|Interfaz de Reproductor de M\u00FAsica\\Interfaz de Reproductor de M\u00FAsica.csproj|solutionrelative:interfaz de reproductor de m\u00FAsica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB72BC5B-4CE4-42B5-AB00-51AE35DC203A}|Interfaz de Reproductor de M\u00FAsica\\Interfaz de Reproductor de M\u00FAsica.csproj|c:\\users\\mezac\\onedrive\\documentos\\github\\progiii-04a\\segundo corte\\interfaz de reproductor de m\u00FAsica\\interfaz de reproductor de m\u00FAsica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB72BC5B-4CE4-42B5-AB00-51AE35DC203A}|Interfaz de Reproductor de M\u00FAsica\\Interfaz de Reproductor de M\u00FAsica.csproj|solutionrelative:interfaz de reproductor de m\u00FAsica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Segundo Corte\\Interfaz de Reproductor de M\u00FAsica\\Interfaz de Reproductor de M\u00FAsica\\Form1.cs",
+              "RelativeDocumentMoniker": "Interfaz de Reproductor de M\u00FAsica\\Form1.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Segundo Corte\\Interfaz de Reproductor de M\u00FAsica\\Interfaz de Reproductor de M\u00FAsica\\Form1.cs",
+              "RelativeToolTip": "Interfaz de Reproductor de M\u00FAsica\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA1wBoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T13:40:34.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Segundo Corte\\Interfaz de Reproductor de M\u00FAsica\\Interfaz de Reproductor de M\u00FAsica\\Form1.cs",
+              "RelativeDocumentMoniker": "Interfaz de Reproductor de M\u00FAsica\\Form1.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Segundo Corte\\Interfaz de Reproductor de M\u00FAsica\\Interfaz de Reproductor de M\u00FAsica\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Interfaz de Reproductor de M\u00FAsica\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T13:32:51.054Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

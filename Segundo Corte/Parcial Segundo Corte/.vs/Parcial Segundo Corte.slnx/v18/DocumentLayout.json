@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Segundo Corte\\Parcial Segundo Corte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4542595D-CE92-41E7-AE43-E4D844CEBB29}|Parcial Segundo Corte\\Parcial Segundo Corte.csproj|C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Segundo Corte\\Parcial Segundo Corte\\parcial segundo corte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4542595D-CE92-41E7-AE43-E4D844CEBB29}|Parcial Segundo Corte\\Parcial Segundo Corte.csproj|solutionrelative:parcial segundo corte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4542595D-CE92-41E7-AE43-E4D844CEBB29}|Parcial Segundo Corte\\Parcial Segundo Corte.csproj|c:\\users\\mezac\\onedrive\\documentos\\github\\progiii-04a\\segundo corte\\parcial segundo corte\\parcial segundo corte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4542595D-CE92-41E7-AE43-E4D844CEBB29}|Parcial Segundo Corte\\Parcial Segundo Corte.csproj|solutionrelative:parcial segundo corte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4542595D-CE92-41E7-AE43-E4D844CEBB29}|Parcial Segundo Corte\\Parcial Segundo Corte.csproj|C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Segundo Corte\\Parcial Segundo Corte\\parcial segundo corte\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4542595D-CE92-41E7-AE43-E4D844CEBB29}|Parcial Segundo Corte\\Parcial Segundo Corte.csproj|solutionrelative:parcial segundo corte\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registro.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Segundo Corte\\Parcial Segundo Corte\\Parcial Segundo Corte\\Registro.cs",
+              "RelativeDocumentMoniker": "Parcial Segundo Corte\\Registro.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Segundo Corte\\Parcial Segundo Corte\\Parcial Segundo Corte\\Registro.cs",
+              "RelativeToolTip": "Parcial Segundo Corte\\Registro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T12:43:09.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Segundo Corte\\Parcial Segundo Corte\\Parcial Segundo Corte\\Form1.cs",
+              "RelativeDocumentMoniker": "Parcial Segundo Corte\\Form1.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Segundo Corte\\Parcial Segundo Corte\\Parcial Segundo Corte\\Form1.cs",
+              "RelativeToolTip": "Parcial Segundo Corte\\Form1.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAewDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T12:43:09.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Segundo Corte\\Parcial Segundo Corte\\Parcial Segundo Corte\\Form1.cs",
+              "RelativeDocumentMoniker": "Parcial Segundo Corte\\Form1.cs",
+              "ToolTip": "C:\\Users\\mezac\\OneDrive\\Documentos\\GitHub\\ProgIII-04A\\Segundo Corte\\Parcial Segundo Corte\\Parcial Segundo Corte\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Parcial Segundo Corte\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T11:18:36.01Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

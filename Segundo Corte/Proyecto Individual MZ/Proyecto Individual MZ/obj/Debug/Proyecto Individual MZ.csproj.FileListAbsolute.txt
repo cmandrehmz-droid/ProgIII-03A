@@ -1,0 +1,14 @@
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Proyecto Individual MZ\Proyecto Individual MZ\bin\Debug\Proyecto Individual MZ.exe
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Proyecto Individual MZ\Proyecto Individual MZ\bin\Debug\Proyecto Individual MZ.exe.config
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Proyecto Individual MZ\Proyecto Individual MZ\obj\Debug\Proyecto Individual MZ.csproj.AssemblyReference.cache
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Proyecto Individual MZ\Proyecto Individual MZ\obj\Debug\Proyecto_Individual_MZ.Formularios.FormProductos.resources
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Proyecto Individual MZ\Proyecto Individual MZ\obj\Debug\Proyecto_Individual_MZ.Form1.resources
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Proyecto Individual MZ\Proyecto Individual MZ\obj\Debug\Proyecto_Individual_MZ.Properties.Resources.resources
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Proyecto Individual MZ\Proyecto Individual MZ\obj\Debug\Proyecto Individual MZ.csproj.GenerateResource.cache
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Proyecto Individual MZ\Proyecto Individual MZ\obj\Debug\Proyecto Individual MZ.csproj.CoreCompileInputs.cache
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Proyecto Individual MZ\Proyecto Individual MZ\obj\Debug\Proyecto Individual MZ.exe
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Proyecto Individual MZ\Proyecto Individual MZ\obj\Debug\Proyecto Individual MZ.pdb
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Proyecto Individual MZ\Proyecto Individual MZ\bin\Debug\Proyecto Individual MZ.pdb
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Proyecto Individual MZ\Proyecto Individual MZ\obj\Debug\Proyecto_Individual_MZ.Formularios.FormPedidos.resources
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Proyecto Individual MZ\Proyecto Individual MZ\obj\Debug\Proyecto_Individual_MZ.Formularios.FormEntregas.resources
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Proyecto Individual MZ\Proyecto Individual MZ\obj\Debug\Proyecto_Individual_MZ.Formularios.FormInformes.resources

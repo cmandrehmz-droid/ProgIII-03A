@@ -1,0 +1,10 @@
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Parcial Segundo Corte\Parcial Segundo Corte\bin\Debug\Parcial Segundo Corte.exe.config
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Parcial Segundo Corte\Parcial Segundo Corte\bin\Debug\Parcial Segundo Corte.exe
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Parcial Segundo Corte\Parcial Segundo Corte\bin\Debug\Parcial Segundo Corte.pdb
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Parcial Segundo Corte\Parcial Segundo Corte\obj\Debug\Parcial Segundo Corte.csproj.AssemblyReference.cache
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Parcial Segundo Corte\Parcial Segundo Corte\obj\Debug\Parcial_Segundo_Corte.Form1.resources
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Parcial Segundo Corte\Parcial Segundo Corte\obj\Debug\Parcial_Segundo_Corte.Properties.Resources.resources
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Parcial Segundo Corte\Parcial Segundo Corte\obj\Debug\Parcial Segundo Corte.csproj.GenerateResource.cache
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Parcial Segundo Corte\Parcial Segundo Corte\obj\Debug\Parcial Segundo Corte.csproj.CoreCompileInputs.cache
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Parcial Segundo Corte\Parcial Segundo Corte\obj\Debug\Parcial Segundo Corte.exe
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Parcial Segundo Corte\Parcial Segundo Corte\obj\Debug\Parcial Segundo Corte.pdb

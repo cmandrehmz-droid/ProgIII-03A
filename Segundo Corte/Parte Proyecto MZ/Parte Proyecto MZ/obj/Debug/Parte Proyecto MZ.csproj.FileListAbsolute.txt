@@ -1,0 +1,15 @@
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Parte Proyecto MZ\Parte Proyecto MZ\bin\Debug\Parte Proyecto MZ.exe.config
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Parte Proyecto MZ\Parte Proyecto MZ\bin\Debug\Parte Proyecto MZ.exe
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Parte Proyecto MZ\Parte Proyecto MZ\bin\Debug\Parte Proyecto MZ.pdb
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Parte Proyecto MZ\Parte Proyecto MZ\obj\Debug\Parte Proyecto MZ.csproj.AssemblyReference.cache
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Parte Proyecto MZ\Parte Proyecto MZ\obj\Debug\Parte_Proyecto_MZ.Form1.resources
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Parte Proyecto MZ\Parte Proyecto MZ\obj\Debug\Parte_Proyecto_MZ.Properties.Resources.resources
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Parte Proyecto MZ\Parte Proyecto MZ\obj\Debug\Parte Proyecto MZ.csproj.GenerateResource.cache
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Parte Proyecto MZ\Parte Proyecto MZ\obj\Debug\Parte Proyecto MZ.csproj.CoreCompileInputs.cache
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Parte Proyecto MZ\Parte Proyecto MZ\obj\Debug\Parte Proyecto MZ.exe
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Parte Proyecto MZ\Parte Proyecto MZ\obj\Debug\Parte Proyecto MZ.pdb
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Parte Proyecto MZ\Parte Proyecto MZ\bin\Debug\MathNet.Numerics.dll
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Parte Proyecto MZ\Parte Proyecto MZ\bin\Debug\System.ValueTuple.dll
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Parte Proyecto MZ\Parte Proyecto MZ\bin\Debug\MathNet.Numerics.xml
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Parte Proyecto MZ\Parte Proyecto MZ\bin\Debug\System.ValueTuple.xml
+C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Parte Proyecto MZ\Parte Proyecto MZ\obj\Debug\Parte Pr.61F28571.Up2Date
